@@ -1,0 +1,34 @@
+body{
+   margin: 0;
+   padding: 0;
+   background:url(background.css.png);
+   background-size: cover;
+   background-position: center;
+   font-family: sans-serif;
+}
+
+.profile{
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	position: absolute ;
+	margin-top: 150px;
+	margin-left: 650px;
+}
+
+h1{
+	margin: 0;
+	height: 50px;
+	border-radius: 50%;
+	position: absolute;
+	margin-top: 170px;
+	margin-left: 600px;
+} 
+
+button{
+    border-radius: 20px;
+    width: 120px;
+	height: 40px;
+	margin-top: 200px;
+	margin-left: 620px;
+}
